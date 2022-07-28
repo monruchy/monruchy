@@ -1,4 +1,2 @@
 ### Hi there 👋
-
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reallumio)](https://github.com/anuraghazra/github-readme-stats)
