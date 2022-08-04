@@ -61,7 +61,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/reallumio/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=reallumio">
 </a>
 <a href="https://github.com/reallumio?tab=followers"><img src="https://img
