@@ -30,29 +30,6 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/reallumio/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhamRaoniar28&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://twitter.com/Yodsapat01"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/reallumio_o/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCOR_vIk-aVN0lzCnHc4R82Q"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
-</p>
-
-## ❤ Views and Followers
-<a href="https://github.com/reallumio/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=reallumio">
-</a>
-<a href="https://github.com/reallumio?tab=followers"><img src="https://img
-    iscordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
-</p>
-<p align="center">
     Lumio
 <p align="center">  
 <img src="https://komarev.com/ghpvc/?username=reallumio&color=grey">
@@ -63,3 +40,9 @@
 <p align="center">
 Currently learning JavaScript
 <p align="center">
+    
+
+## ❤ Views and Followers
+<a href="https://github.com/reallumio/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=reallumio">
+</a>
