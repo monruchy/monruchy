@@ -35,21 +35,6 @@
     </a>
 </p>
 
-## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/reallumio/github-readme-stats"><img alt="Lumio Github Stats" src="https://github-readme-stats.vercel.app/api?username=reallumio&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/reallumio/github-readme-stats"><img alt="Lumio's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reallumio&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-
-<br/>
-<br/>
 
 ## Connect with me:
 <p align="left">
@@ -65,3 +50,16 @@
     <img src="https://komarev.com/ghpvc/?username=reallumio">
 </a>
 <a href="https://github.com/reallumio?tab=followers"><img src="https://img
+    iscordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+</p>
+<p align="center">
+    Lumio
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=reallumio&color=grey">
+</p>
+    <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/793710010429472848.png"/>
+</p>
+<p align="center">
+Currently learning JavaScript
+<p align="center">
