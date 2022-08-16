@@ -39,7 +39,6 @@
 <p align="center">
 Currently learning JavaScript
 <p align="center">
-    
 
 ## ❤ Views and Followers
 <a href="https://github.com/reallumio/github-profile-views-counter">
