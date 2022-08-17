@@ -40,7 +40,7 @@
 Currently learning JavaScript
 <p align="center">
 
-## ❤ Views and Followers
+## ❤ Views 
 <a href="https://github.com/reallumio/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=reallumio">
 </a>
