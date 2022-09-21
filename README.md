@@ -15,7 +15,7 @@
 <b>Hobbys:</b> Tech , Graphic Design, Web Development
 </li>
 <li>
-<b>Working @:</b>  :p
+<b>Working @:</b>   :p
 </li>
 <br><br><br>
 </div>
