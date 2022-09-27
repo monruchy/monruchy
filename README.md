@@ -31,7 +31,6 @@ if __name__ == "__main__":
 ```
 -----
 
-
 ## ❤ Views 
 <a href="https://github.com/reallumio/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=reallumio">
