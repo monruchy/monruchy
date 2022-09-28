@@ -3,10 +3,10 @@
 ```python
 from Github import GithubReadme
 
-class Void:
+class Lumio:
     def __init__(self):
         self.name = "Lumio"
-        self.age = "14"
+        self.age = "16"
         self.location = "Moon"
         self.work = "Developer"
         self.system = "Windows 10, x64"
