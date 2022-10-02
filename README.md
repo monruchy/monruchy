@@ -17,7 +17,7 @@ class Lumio:
             "learning": ["golang", "C++"]
         }
 
-        self.works = ['Website', 'etc...']
+        self.works = ['Minecraft plugin', 'etc...']
     
     def social_media(self):
         self.discord = "Lumio#9778"
