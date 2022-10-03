@@ -1,7 +1,7 @@
 
 -----
-```from GitHub import ReadMe
-
+```py
+from GitHub import ReadMe
 class Lumio(ReadMe):
     "/lumiowastaken/lumiowastaken/README.md"
 
