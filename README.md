@@ -22,7 +22,6 @@ class Lumio:
     def social_media(self):
         self.discord = "Lumio#9778"
         self.telegram = "@notLumio"
-        self.instagram = "lumiowastakenwastaken"
         self.email = "lumiowastakenwastaken@proton.me"
         self.onlyfans = None
 
