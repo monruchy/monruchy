@@ -1,33 +1,24 @@
 
 -----
-```python
-from Github import GithubReadme
+```from GitHub import ReadMe
 
-class Lumio:
+class Lumio(ReadMe):
+    "/lumiowastaken/lumiowastaken/README.md"
+
     def __init__(self):
-        self.name = "Lumio"
-        self.age = "16"
-        self.location = "Moon"
-        self.work = "Developer"
-        self.system = "Windows 10, x64"
-
-    def skills(self):
-        self.languages = {
-            "main": ["Python", "Java",  "Node.js", "C#", "HTML/CSS/JS"],
-            "learning": ["golang", "C++"]
+        self.username = "lumiowastaken"
+        self.contacts = {
+            "Discord": "Lumio#9778",
+            "Telegram": "@notlumio"
         }
-
-        self.works = ['Minecraft plugin', 'etc...']
-    
-    def social_media(self):
-        self.discord = "Lumio#9778"
-        self.telegram = "@notLumio"
-        self.email = "lumiowastakenwastaken@proton.me"
-        self.onlyfans = None
-
-
-if __name__ == "__main__":
-    readme = GithubReadme.create(Lumio)
+        self.aliases = [
+            "Lumio",
+            "Lumioowo",
+        ]
+        self.location = "Bangkok"
+        self.age = "16"
+        self.occupation = "Freelance Developer"
+        self.operating_system = "Windows"
 ```
 -----
 
