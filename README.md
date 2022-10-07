@@ -11,10 +11,6 @@ class Lumio(ReadMe):
             "Discord": "Lumio#9778",
             "Telegram": "@notlumio"
         }
-        self.aliases = [
-            "Lumio",
-            "Lumioowo",
-        ]
         self.location = "Bangkok"
         self.age = "16"
         self.occupation = "Freelance Developer"
