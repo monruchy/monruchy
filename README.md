@@ -1,20 +1,23 @@
 
 -----
 ```py
-from GitHub import ReadMe
-class Lumio(ReadMe):
-    "/lumiowastaken/lumiowastaken/README.md"
+import Profile from "Lumio"
 
-    def __init__(self):
-        self.username = "lumiowastaken"
-        self.contacts = {
-            "Discord": "Lumio#9778",
-            "Telegram": "@notlumio"
-        }
-        self.location = "Bangkok"
-        self.age = "16"
-        self.occupation = "Freelance Developer"
-        self.operating_system = "Windows"
+class Bio extends Profile {
+  name    = "Lumio";
+  email   = "lumiowastakenwastaken@protonmail.com";
+}
+
+class Skills extends Profile {
+  languages        = ["JavaScript", "TypeScript", "Python"];
+  frontend         = ["React", "Gatsby"];
+  backend          = ["Node", "Express"];
+  databases        = ["Firebase", "MongoDB"];
+  toolchains       = ["npm", "Yarn"];
+  hosting          = ["Netlify", "Firebase", "Heroku"];
+  operatingSystems = ["Windows", "macOS", "GNU/Linux"];
+  editors          = ["Visual Studio Code"];
+}
 ```
 -----
 
