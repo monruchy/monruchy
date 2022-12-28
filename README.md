@@ -25,4 +25,6 @@
 <a href="https://github.com/lumiowastaken/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=lumiowastaken">
 </a>
-
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=313rakwl6izaerayob7trim7cuma&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&bar_color=53b14f&bar_color_cover=false">
+</a>
