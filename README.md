@@ -9,7 +9,7 @@
                 . *######@                Discord: users/793710010429472848
                .##@o@#####@               Website: https://lumio.gay
               /############@            
-             /##############@             Infos: 16 y/o self-taught Newbie Dev and Geek!
+             /##############@             Infos: 16 y/o self-taught Newbie Dev!
             @######@**%######@            
            @######`     %#####o           
           @######@       ######%          
