@@ -13,7 +13,7 @@
 
   Image by [SAU](https://twitter.com/bysau_/status/1390297979114950661) |
   Inspired by [instance01](https://github.com/instance01/instance01) \
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313rakwl6izaerayob7trim7cuma&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&redirect=false)
+  ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313rakwl6izaerayob7trim7cuma&cover_image=true&theme=novatorem&show_offline=false&background_color=ffffff&bar_color=53b14f&bar_color_cover=false)
 ```css
 [Lumio@archlinux ~]$ neofetch
 
