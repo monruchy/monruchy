@@ -5,7 +5,7 @@
   👋・Hi! I'm Lumio~ (✿ ◕ᗜ◕)━♫.*･｡ﾟ \
   ❤・Nice to meet you
 
-  🌱・I’m currently learning: Python, Discord bot, Mobile App \
+  🌱・I’m currently learning: Python, Discord bot \
   💬・Ask me about anything: even if it's not related to programming \
   💜・Interests: music, video games, watching anime, etc \
   🎵・I like to listen to music while coding \
