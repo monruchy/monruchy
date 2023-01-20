@@ -5,8 +5,8 @@
                    .##@                   -----------------
                   .####@                  Username: Lumio
                   @#####@                 Alias: Lumio
-                . *######@                Discord: users/793710010429472848
-               .##@o@#####@               Website: https://lumio.gay
+                . *######@                Website: https://lumio.gay
+               .##@o@#####@               
               /############@            
              /##############@             Infos: 16 y/o self-taught Newbie Dev!
             @######@**%######@            
