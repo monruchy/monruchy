@@ -20,6 +20,3 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/8dda5ffe90885d006f7ed6433c09794e05290fd1/github-contribution-grid-snake.svg">
 </a>
-<p align="center">
-<a href="https://github.com/MammonBigBoy/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=?mammonbigboy">
