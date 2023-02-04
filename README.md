@@ -1,9 +1,9 @@
 ```css
-[Lumio@archlinux ~]$ neofetch
+[Mammon@archlinux ~]$ neofetch
 
                     -@                    Lumio@archlinux
                    .##@                   -----------------
-                  .####@                  Username: Lumio
+                  .####@                  Username: Mammon
                   @#####@                 Alias: Lumio
                 . *######@                Website: https://lumio.gay
                .##@o@#####@               
