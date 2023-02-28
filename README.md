@@ -1,11 +1,11 @@
 ```css
 [Mammon@archlinux ~]$ neofetch
 
-                    -@                    Lumio@archlinux
+                    -@                    Iriz@archlinux
                    .##@                   -----------------
                   .####@                  Username: Mammon
-                  @#####@                 Alias: Lumio
-                . *######@                Website: https://lumio.gay
+                  @#####@                 Alias: Iriz
+                . *######@                
                .##@o@#####@               
               /############@            
              /##############@             Infos: 16 y/o self-taught Newbie Dev!
