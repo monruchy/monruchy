@@ -1,7 +1,7 @@
 ```css
 [Mammon@archlinux ~]$ neofetch
 
-                    -@                    Iriz@archlinux
+                    -@                    Mammon@archlinux
                    .##@                   -----------------
                   .####@                  Username: Mammon
                   @#####@                 Alias: Iriz
