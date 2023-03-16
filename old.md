@@ -1,8 +1,6 @@
-<p float="left">
-<img src='new_pic.jpeg' width='250' align="left">
-<p float="left">
 
-  👋・Hi! I'm Lumio~ (✿ ◕ᗜ◕)━♫.*･｡ﾟ \
+
+  👋・Hi! I'm Mammmon~ (✿ ◕ᗜ◕)━♫.*･｡ﾟ \
   ❤・Nice to meet you
 
   🌱・I’m currently learning: Python, Discord bot \
