@@ -4,7 +4,7 @@
                     -@                    Mammon@archlinux
                    .##@                   -----------------
                   .####@                  Username: Mammon
-                  @#####@                 Alias: Iriz
+                  @#####@                 Alias: lost
                 . *######@                
                .##@o@#####@               
               /############@            
@@ -24,9 +24,9 @@
 class Mammon:
 
 def  __social__(self):
- self.gtb = "https://github.com/MammonBigBoy"
+ self.gtb = "https://github.com/l0stdiary"
  self.dsc = "313rakwl6izaerayob7trim7cuma" 
- self.tlg = "https://t.me/notIriz"
+ self.tlg = "https://t.me/notmammon"
   
  ┌──(Mammon@root)-[~/]
  └─$
