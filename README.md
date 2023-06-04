@@ -17,17 +17,3 @@
       @H@*`                    `*%#@    
      *`                            `*     
 ```
-```py
-┌──(Mammon@root)-[~/]
-└─$ cat Mammon.py
-
-class Mammon:
-
-def  __social__(self):
- self.gtb = "https://github.com/l0stdiary"
- self.dsc = "313rakwl6izaerayob7trim7cuma" 
- self.tlg = "https://t.me/notmammon"
-  
- ┌──(Mammon@root)-[~/]
- └─$
-```
