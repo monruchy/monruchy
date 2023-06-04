@@ -3,7 +3,7 @@
 
                     -@                    Mammon@archlinux
                    .##@                   -----------------
-                  .####@                  Username: Mammon
+                  .####@                  Username: lostdiary
                   @#####@                 Alias: lost
                 . *######@                
                .##@o@#####@               
