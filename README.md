@@ -1,5 +1,5 @@
 ```css
-[Mammon@archlinux ~]$ neofetch
+[lost@archlinux ~]$ neofetch
 
                     -@                    Mammon@archlinux
                    .##@                   -----------------
