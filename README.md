@@ -1,15 +1,15 @@
 ```css
 [lost@archlinux ~]$ neofetch
 
-                    -@                    Mammon@archlinux
+                    -@                    lost@archlinux
                    .##@                   -----------------
                   .####@                  Username: lostdiary
                   @#####@                 Alias: lost
-                . *######@                
+                . *######@                Country: Japan
                .##@o@#####@               
               /############@            
              /##############@             Infos: 16 y/o self-taught Newbie Dev!
-            @######@**%######@            
+            @######@**%######@            -----------------  
            @######`     %#####o           
           @######@       ######%          
         -@#######h       ######@.`        
