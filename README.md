@@ -1,3 +1,7 @@
+
+
+> **Warning**
+> This user is a registered sex offender.
 ```css
 [lost@archlinux ~]$ neofetch
 
