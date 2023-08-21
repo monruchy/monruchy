@@ -3,12 +3,12 @@
 > **Warning**
 > This user is a registered sex offender.
 ```css
-[Yimmy@archlinux ~]$ neofetch
+[muji@archlinux ~]$ neofetch
 
-                    -@                    Yimmy@archlinux
+                    -@                    muji@archlinux
                    .##@                   -----------------
-                  .####@                  Username: lostdiary
-                  @#####@                 Alias: Yimmy
+                  .####@                  Username: mujicat
+                  @#####@                 Alias: muji
                 . *######@                Country: Japan
                .##@o@#####@               
               /############@            
