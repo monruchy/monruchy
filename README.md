@@ -23,7 +23,7 @@
 ```
 
 
-<p align="center"><img src="https://discord.c99.nl/widget/theme-4/1035157898638139435.png" alt="muji" /></p>
+<p align="center"><img src="https://lanyard.cnrad.dev/api/1035157898638139435?showDisplayName=true&bg=0d1117&idleMessage=https%3A%2F%2Fchino.is-a.dev" alt="muji" /></p>
 
 <p align="center"><img src="https://count.getloli.com/get/@mujicat" alt="muji" /></p>
 
