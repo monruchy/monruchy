@@ -28,8 +28,3 @@
 <p align="center"><img src="https://count.getloli.com/get/@mujicat" alt="muji" /></p>
 
 <a href="https://github.com/mujicat/"><img src="https://raw.githubusercontent.com/mujicat/mujicat/main/img/yummy.gif"></a>
-## ❤ Followers
-<a href="https://github.com/mujicat/">
-    <img src="https://img.shields.io/github/followers/mujicat?label=Followers&style=social" alt="GitHub Badge">
-</a>
-
