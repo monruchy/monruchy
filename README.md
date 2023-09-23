@@ -1,7 +1,3 @@
-<p align="center">  
-<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
-</p>
-<p align="center">
 
 <a href="https://github.com/mujicat/"><img src="https://raw.githubusercontent.com/mujicat/mujicat/main/img/yummy.gif"></a>
 
