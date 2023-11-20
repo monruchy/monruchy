@@ -19,7 +19,7 @@ I'm mj and my hobbies are playing games, watching anime, reading manga, and some
 
 ## **💻 Experience**
 <a href="https://github.com/Unknown-user-dev"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
-I'm currently studying Networking at Robespierre. Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+I'm currently studying Networking at Robespierre. , and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
 
 
 ## **🎧 Spotify**
