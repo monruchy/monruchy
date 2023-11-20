@@ -14,7 +14,7 @@
 
 ## **☕ About me**
 <a href="https://github.com/mujicat"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
-I'm Unknown User and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
+I'm mj and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
 <br><br>
 
 ## **💻 Experience**
