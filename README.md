@@ -5,7 +5,7 @@
 </div>
 
 
-<a href="https://discord.com/users/1035157898638139435"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/921126770340683886?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+<a href="https://discord.com/users/1035157898638139435"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1035157898638139435?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 
 ### Hi!👋 I'm **`Muji`** aka `Mj 💻`
@@ -27,7 +27,7 @@ I'm currently studying Networking at Robespierre. Two years of College have pass
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=313rakwl6izaerayob7trim7cuma&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=313rakwl6izaerayob7trim7cuma&cover_image=true&theme=default&show_offline=true&background_color=0d11170&interchange=false&bar_color_cover=true"></a><a href="https://open.spotify.com/user/313rakwl6izaerayob7trim7cuma"><img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=313rakwl6izaerayob7trim7cuma"></a>
 </p>
 
-## **🧋Cutie Counter**
+## **👻 Cutie Counter**
 <a href="https://discord.com/users/1035157898638139435"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@mujicat"></a>
 <a href="https://github.com/mujicat"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
 
@@ -45,3 +45,5 @@ Hehe~ another cutie has been caught.
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/921126770340683886)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/muujicat)
 [![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:me@posttuaglom.fun)
+
+<a href="https://github.com/mujicat/"><img src="https://raw.githubusercontent.com/mujicat/mujicat/main/img/yummy.gif"></a>
