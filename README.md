@@ -24,7 +24,7 @@ I'm currently studying Networking at Robespierre. , and I am still learning. I d
 
 ## **♡ - S p o t i f y！「 歌曲 」**
 <p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=313rakwl6izaerayob7trim7cuma&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=313rakwl6izaerayob7trim7cuma&cover_image=true&theme=default&show_offline=true&background_color=0d11170&interchange=false&bar_color_cover=true"></a><a href="https://open.spotify.com/user/313rakwl6izaerayob7trim7cuma"><img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=313rakwl6izaerayob7trim7cuma"></a>
+<a href="https://spotify-github-profile.vercel.app/api/view?uid=313rakwl6izaerayob7trim7cuma&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=313rakwl6izaerayob7trim7cuma&cover_image=true&theme=compact&show_offline=true&background_color=0d11170&interchange=false&bar_color_cover=true"></a><a href="https://open.spotify.com/user/313rakwl6izaerayob7trim7cuma"><img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=313rakwl6izaerayob7trim7cuma"></a>
 </p>
 
 ## **👻 Cutie Counter**
