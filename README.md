@@ -5,10 +5,10 @@
 </div>
 
 
-<a href="https://discord.com/users/1035157898638139435"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1035157898638139435?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+<a href="https://discord.com/users/1035157898638139435"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1035157898638139435?imgStyle=circle&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
-
-### Hi!👋 I'm **`Muji`** aka `Mj 💻`
+### ♡ - Ｗｅｌｃｏｍｅ！「 おはよう 」
+ I'm **`Muji`** aka `Mj 💻`
 
 **Weeb Developer and Gamer** 
 
@@ -22,7 +22,7 @@ I'm mj and my hobbies are playing games, watching anime, reading manga, and some
 I'm currently studying Networking at Robespierre. , and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
 
 
-## **🎧 Spotify**
+## **♡ - S p o t i f y！「 歌曲 」**
 <p align="center">
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=313rakwl6izaerayob7trim7cuma&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=313rakwl6izaerayob7trim7cuma&cover_image=true&theme=default&show_offline=true&background_color=0d11170&interchange=false&bar_color_cover=true"></a><a href="https://open.spotify.com/user/313rakwl6izaerayob7trim7cuma"><img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=313rakwl6izaerayob7trim7cuma"></a>
 </p>
