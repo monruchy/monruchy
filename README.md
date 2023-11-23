@@ -8,8 +8,6 @@
 <a href="https://discord.com/users/1035157898638139435"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1035157898638139435?imgStyle=circle&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
 ### ♡ - Ｗｅｌｃｏｍｅ！「 おはよう 」
- I'm **`Muji`** aka `Mj 💻`
-
 **Weeb Developer and Gamer** 
 
 ## **☕ About me**
@@ -19,7 +17,7 @@ I'm mj and my hobbies are playing games, watching anime, reading manga, and some
 
 ## **💻 Experience**
 <a href="https://github.com/Unknown-user-dev"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
-I'm currently studying Networking at Robespierre. , and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+I'm currently studying Networking at Robespierre and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
 
 
 ## **♡ - S p o t i f y！「 歌曲 」**
