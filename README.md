@@ -17,6 +17,6 @@ Hehe~ another cutie has been caught.
 
 [![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/921126770340683886)
 [![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/muujicat)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:me@posttuaglom.fun)
+[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](https://youtu.be/xvFZjo5PgG0?si=kUNwHIFdHPaKzlNP)
 
 <a href="https://github.com/mujicat/"><img src="https://raw.githubusercontent.com/mujicat/mujicat/main/img/yummy.gif"></a>
