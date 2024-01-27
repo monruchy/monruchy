@@ -2,7 +2,7 @@
 <a href="https://github.com/mujicat"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
 
 ```yaml
-People who visit my profile :3.
+People who visit my profile :3
 
 Hehe~ another cutie has been caught.
 ```
